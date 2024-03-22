@@ -1,0 +1,23 @@
+{
+  "name": "string-similarity",
+  "version": "1.0.0",
+  "description": "Calculate distance between two strings. Calculate similary between two strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": [
+    "string",
+    "distance",
+    "similarity"
+  ],
+  "author": "casper korsgaard",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2"
+  }  
+}
